@@ -1,0 +1,5 @@
+{
+  "name": "Morning Sync",
+  "description": "An intelligent morning dashboard that aggregates Outlook and Teams feeds into a prioritized KPI grid with AI-powered summarization.",
+  "requestFramePermissions": []
+}
